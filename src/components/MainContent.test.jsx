@@ -6,7 +6,7 @@ import MainContent from './MainContent';
 
 // MY TESTS
 // added another comment 
-// added new comment skips actions in commit message 
+// skip ci
 describe('MainContent', () => {
   it('should render a button', () => {
     render(<MainContent />);
